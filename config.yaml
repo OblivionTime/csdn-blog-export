@@ -1,0 +1,10 @@
+# 用户名
+username: test
+# cookie
+cookie: test
+# 总页数(每一页100条)
+totalPage: 2
+#将数据保存成excel
+saveExcel: true
+# 生成文件的类型(all(html和md),html,md)
+fileType: md
